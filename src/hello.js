@@ -3,4 +3,11 @@ var Hello = {
     greeting() {
       return this.message;
     }
-  };
+};
+
+var inputStr = {
+    str: prompt('enter the word'),
+    returnStr() {
+        return this.str;
+    }
+};
