@@ -1,0 +1,8 @@
+node_modules/
+doc/
+dist/
+debug/
+debug_vw/
+*.swp
+*.zip
+.idea/

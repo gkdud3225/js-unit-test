@@ -1,0 +1,21 @@
+{
+  "name": "js-unit-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkdud3225/js-unit-test.git"
+  },
+  "author": "hayeong",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.4",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
